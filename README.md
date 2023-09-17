@@ -1084,7 +1084,7 @@ gen_heatmap(df_bio, 'exercise', 'dificulties_were_piling_up_so_hi')
 ```
 
 ![png](Stress/output_85_0.png)
-    `</div>`1
+
 
 
 
